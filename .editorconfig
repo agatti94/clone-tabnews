@@ -1,0 +1,5 @@
+root = true
+
+[*]
+indent_style = spcae
+indent_size = 2
